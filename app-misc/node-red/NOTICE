@@ -1,0 +1,73 @@
+================================================================================
+NOTICE - Node-RED Dependencies Package
+================================================================================
+
+This directory contains a package of node_modules extracted from
+Node-RED, built using the node-red-builder tool.
+
+================================================================================
+ABOUT NODE-RED
+================================================================================
+
+Node-RED is an open-source workflow automation tool originally created
+by IBM and now maintained by the OpenJS Foundation.
+
+- Project: https://github.com/node-red/node-red
+- License: Apache License 2.0
+- Copyright: Node-RED Contributors (Apache 2.0)
+
+This package was created by downloading the official release from the
+official Node-RED GitHub repository releases page, which is explicitly
+provided for public download and use by the project maintainers.
+
+================================================================================
+LEGAL NOTICE
+================================================================================
+
+This package does not modify, alter, or create derivative works from
+Node-RED. It is a rebuild of the publicly available source code for the
+purpose of package management and distribution.
+
+The node_modules directory contains dependencies, each of which is
+licensed under its respective open-source license (MIT, Apache 2.0, ISC,
+BSD, etc.). All dependencies included in this package are compatible
+with open-source distribution.
+
+This build tool and resulting package:
+
+1. Downloads only from official, publicly available GitHub releases
+2. Does not circumvent any access controls or authentication
+3. Does not modify any copyrighted source code
+4. Does not distribute any code that is not already publicly available
+5. Does not strip any license files or attributions
+
+This package is provided for convenience and compatibility with
+distribution systems. The original Node-RED source code and all
+associated licenses remain available at:
+https://github.com/node-red/node-red
+
+================================================================================
+INDIVIDUAL PACKAGE LICENSES
+================================================================================
+
+Each package in node_modules carries its own license. The predominant
+licenses include:
+
+- Apache License 2.0
+- MIT License
+- ISC License
+- BSD Licenses (2-Clause, 3-Clause)
+- MPL 2.0
+
+All included packages are open-source software with licenses that
+permit redistribution.
+
+================================================================================
+CONTACT
+================================================================================
+
+For concerns regarding Node-RED:
+- GitHub: https://github.com/node-red/node-red
+- Website: https://nodered.org
+
+================================================================================
