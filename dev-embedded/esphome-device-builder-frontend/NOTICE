@@ -3,12 +3,12 @@ NOTICE — esphome-device-builder-frontend Dependencies Package
 ================================================================================
 
 Package : esphome-device-builder-frontend
-Version : 0.1.229
+Version : 0.1.234
 Homepage: 
 Desc    : Frontend for ESPHome Device Builder
 
 This archive contains the node_modules tree produced by running
-`npm install` on the upstream source of esphome-device-builder-frontend-0.1.229.
+`npm install` on the upstream source of esphome-device-builder-frontend-0.1.234.
 
 Each sub-package carries its own open-source license (MIT, Apache 2.0,
 ISC, BSD, etc.).  No source code has been modified.
