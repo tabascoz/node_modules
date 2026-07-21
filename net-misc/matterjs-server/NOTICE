@@ -3,12 +3,12 @@ NOTICE — matterjs-server Dependencies Package
 ================================================================================
 
 Package : matterjs-server
-Version : 1.2.6
+Version : 1.2.8
 Homepage: https://github.com/matter-js/matterjs-server
 Desc    : OHF Matter Server - WebSocket Matter controller based on matter.js
 
 This archive contains the node_modules tree produced by running
-`npm install` on the upstream source of matterjs-server-1.2.6.
+`npm install` on the upstream source of matterjs-server-1.2.8.
 
 Each sub-package carries its own open-source license (MIT, Apache 2.0,
 ISC, BSD, etc.).  No source code has been modified.
